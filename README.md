@@ -1,5 +1,2 @@
-# Aplikasi-Login
-Sebuah Aplikasi dengan fitur login woyyy
-membuat login
-home
-udah dongg haha
+# Tugas Machine Learning Pertama
+Pyrhon 4Ever
